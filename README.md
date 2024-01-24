@@ -1,2 +1,2 @@
 # -CSCI_1175_Industry_Projects_Coursework-.
-All assignments from my course
+## This repository contains all my coursework for this course at Southwest Tech
